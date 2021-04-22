@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\22\ReadLine\obj\Debug\ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\22\ReadLine\bin\Debug\ReadLine.exe.config
+C:\Users\golya\source\repos\22\ReadLine\bin\Debug\ReadLine.exe
+C:\Users\golya\source\repos\22\ReadLine\bin\Debug\ReadLine.pdb
+C:\Users\golya\source\repos\22\ReadLine\obj\Debug\ReadLine.exe
+C:\Users\golya\source\repos\22\ReadLine\obj\Debug\ReadLine.pdb
+C:\Users\golya\source\repos\22\ReadLine\obj\Debug\ReadLine.csprojAssemblyReference.cache
